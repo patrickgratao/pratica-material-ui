@@ -203,7 +203,7 @@ const ListarTarefa = () => {
           </TableContainer>
         </CardContent>
         <CardActions>
-          <Button size="small" variant="contained" onClick={handleOpen}>
+          <Button size="small" variant="contained" onClick={handleOpen} color="secondary">
             Criar Tarefa
           </Button>
         </CardActions>
